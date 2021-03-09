@@ -12,8 +12,6 @@
     <repository>
  <id>clouderaspark3</id>
  <url>https://archive.cloudera.com/p/spark3/3.0.7110.0/mavenrepository/</url>
- <username>${cloudera.username}</username>
- <password>${cloudera.password}</password>
  </repository>
     <repository>
       <id>cloudera</id>
