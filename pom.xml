@@ -10,6 +10,12 @@
 
   <repositories>
     <repository>
+ <id>cloudera</id>
+ <url>https://archive.cloudera.com/p/spark3/3.0.7110.0/mavenrepository/</url>
+8
+Cloudera Runtime CDS 3.0 Powered by Apache Spark Maven Artifacts
+ </repository>
+    <repository>
       <id>cloudera</id>
       <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
     </repository>
