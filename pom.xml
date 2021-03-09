@@ -9,14 +9,16 @@
   <version>1.0-SNAPSHOT</version>
 
   <repositories>
-    <repository>
- <id>clouderaspark3</id>
- <url>https://archive.cloudera.com/p/spark3/3.0.7110.0/mavenrepository/</url>
- </repository>
+   
     <repository>
       <id>cloudera</id>
       <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
     </repository>
+           
+      <repository>
+ <id>clouderaspark3</id>
+ <url>https://archive.cloudera.com/p/spark3/3.0.7110.0/mavenrepository/</url>
+ </repository>
   </repositories>
 
   <build>
